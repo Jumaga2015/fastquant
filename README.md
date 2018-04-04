@@ -1,3 +1,12 @@
+# fastquant
+
+Trimming the orginal project into a handy library so as to support quant trading backtesting and live trading.
+The target fromwork is mainly .NET Core 2.0, which is the reason of the removal of .dll from the project name.
+
+
+
+The following information is from original project:
+
 # fastquant.dll
 [![License](https://img.shields.io/badge/license-Apache_2-blue.svg)](https://github.com/fastquant/fastquant.dll/blob/master/LICENSE)
 
